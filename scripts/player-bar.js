@@ -40,4 +40,4 @@ $(document).ready(function(){
      $('#time-control .total-time').text( totalTime );
      $('#time-control input').val(percent);
    }, 1000);
- });5
+ });
